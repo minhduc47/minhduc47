@@ -38,15 +38,15 @@
 
 ### ⚡ GitHub Stats  
 
-[![MinDuck's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeMinhDuc47&theme=tokyo-night)](https://git.io/praveenscience)
+[![MinDuck's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhduc47&theme=tokyo-night)](https://git.io/praveenscience)
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=LeMinhDuc47&hide_progress=true&theme=tokyonight" alt="" />
+      <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=minhduc47&hide_progress=true&theme=tokyonight" alt="" />
     </td>
     <td width="50%" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=LeMinhDuc47&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=minhduc47&theme=tokyonight" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
