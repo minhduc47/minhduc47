@@ -45,9 +45,7 @@
       <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=minhduc47&hide_progress=true&theme=tokyonight" alt="" />
     </td>
     <td width="50%" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=minhduc47&theme=tokyonight" alt="GitHub Streak" />
-      </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=minhduc47&theme=tokyonight&card_width=497&card_height=230" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
